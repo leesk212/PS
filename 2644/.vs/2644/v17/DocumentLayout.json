@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leesk\\source\\repos\\2644\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F4B892-3C06-4B8B-B8FA-F2759875ED8B}|2644\\2644.vcxproj|C:\\Users\\leesk\\source\\repos\\2644\\2644\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F4B892-3C06-4B8B-B8FA-F2759875ED8B}|2644\\2644.vcxproj|solutionrelative:2644\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F4B892-3C06-4B8B-B8FA-F2759875ED8B}|2644\\2644.vcxproj|C:\\Users\\leesk\\source\\repos\\2644\\2644\\\uD14D\uC2A4\uD2B8.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{52F4B892-3C06-4B8B-B8FA-F2759875ED8B}|2644\\2644.vcxproj|solutionrelative:2644\\\uD14D\uC2A4\uD2B8.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\Users\\leesk\\source\\repos\\2644\\2644\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "2644\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\Users\\leesk\\source\\repos\\2644\\2644\\\uC18C\uC2A4.cpp",
+              "RelativeToolTip": "2644\\\uC18C\uC2A4.cpp",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-04T06:32:18.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uD14D\uC2A4\uD2B8.txt",
+              "DocumentMoniker": "C:\\Users\\leesk\\source\\repos\\2644\\2644\\\uD14D\uC2A4\uD2B8.txt",
+              "RelativeDocumentMoniker": "2644\\\uD14D\uC2A4\uD2B8.txt",
+              "ToolTip": "C:\\Users\\leesk\\source\\repos\\2644\\2644\\\uD14D\uC2A4\uD2B8.txt",
+              "RelativeToolTip": "2644\\\uD14D\uC2A4\uD2B8.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-04T06:32:29.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
